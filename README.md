@@ -7,7 +7,7 @@ Der Code beginnt dann mit einem Try-Block, der eine Benutzereingabe von der Kons
 
 Die Schleife durchläuft das muenzen-Array und prüft für jede Münze, ob sie in den eingegebenen Betrag passt. Wenn ja, wird die Anzahl der Münzen im muenzCount-Array erhöht und der Wert des input_money-Betrags wird entsprechend verringert. Die Schleife wiederholt diesen Vorgang für jede Münze, bis der gesamte Betrag in Münzen gewechselt wurde.
 
-Schließlich gibt der Code die Anzahl und den Wert der benötigten Münzen auf der Konsole aus, indem er das muenzCount-Array durchläuft und die Elemente ausgibt, die größer als 0 sind.
+Schliesslich gibt der Code die Anzahl und den Wert der benötigten Münzen auf der Konsole aus, indem er das muenzCount-Array durchläuft und die Elemente ausgibt, die grösser als 0 sind.
 
 # Haftungsausschluss
 

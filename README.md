@@ -9,4 +9,6 @@ Die Schleife durchläuft das muenzen-Array und prüft für jede Münze, ob sie i
 
 Schließlich gibt der Code die Anzahl und den Wert der benötigten Münzen auf der Konsole aus, indem er das muenzCount-Array durchläuft und die Elemente ausgibt, die größer als 0 sind.
 
+# Haftungsausschluss
 
+Die Verwendung dieses Programms erfolgt auf eigene Gefahr. Der Entwickler haftet nicht für Schäden, die durch die Verwendung dieses Programms entstehen können. Bitte stellen Sie sicher, dass das Programm in einer sicheren Umgebung ausgeführt wird.
